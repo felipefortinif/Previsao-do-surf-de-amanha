@@ -1,2 +1,1 @@
-# Previsao-do-surf-de-amanha
-Programa que prevê as condições do mar do dia seguinte e envia para surfistas
+Programa que utiliza utiliza uma API para pegar diversos dados sobre as condições do mar (tamanho das ondas, direção do swell, direção do vento,...) fiz cálculos com ditos dados, e utilizei outra API para enviar essas informações para diversos surfistas, além de utilizar um site de hosting para rodar o programa diariamente sem precisar de manutenção.
